@@ -31,3 +31,8 @@ When you run 'bamazonCustomer.js' you get this:
 
 ![Customer View Screen Shot](images/customer.png)
 
+Then as a customer, you can select which item you want by ID and the quantity you want:
+
+![Customer Input Screen Shot](images/customerInput.png)
+
+
