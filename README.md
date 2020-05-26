@@ -28,5 +28,6 @@ Amazon-like storefront using MySQL and Node.js. The app takes in orders from cus
 ### Screenshots of the app in action
 
 When you run 'bamazonCustomer.js' you get this:
+
 ![Customer View Screen Shot](images/customer.png)
 
