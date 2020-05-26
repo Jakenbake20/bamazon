@@ -1,4 +1,4 @@
-# bamazon
+# Bamazon
 
 ## Overview
 
@@ -34,5 +34,42 @@ When you run 'bamazonCustomer.js' you get this:
 Then as a customer, you can select which item you want by ID and the quantity you want:
 
 ![Customer Input Screen Shot](images/customerInput.png)
+
+If your purchase was a success then you can add either get another item or just be done shopping:
+
+![Customer View Screen Shot](images/yes.png)
+
+![Customer View Screen Shot](images/no.png)
+
+If for some reason the item is low on stock your order will be automatically cancelled:
+
+![Customer View Screen Shot](images/stock.png)
+
+Here is your view when using the 'bamazonManager.js':
+
+![Customer View Screen Shot](images/managerOptions.png)
+
+Select different Manager options:
+
+![Customer View Screen Shot](images/menu.png)
+
+
+Add to your Inventory if something is low:
+
+![Customer View Screen Shot](images/addInv.png)
+
+Or you can add a new product you wish to be sold:
+
+![Customer View Screen Shot](images/add.png)
+
+### Technologies Used
+
+* JAVASCRIPT
+* jQuery
+* Node 
+* MySQL
+* Node Packages
+* JSON
+
 
 
